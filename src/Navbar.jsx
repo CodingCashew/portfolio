@@ -24,11 +24,6 @@ function Navbar(props) {
             Portfolio
           </Typography>
         </Link>
-        <Link to="/contact" className="pages">
-          <Typography variant="h6" color="secondary.dark" className="pages">
-            Contact
-          </Typography>
-        </Link>
         <div className="links">
           <a
             href="https://github.com/CodingCashew"
